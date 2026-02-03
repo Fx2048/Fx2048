@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="Brigitte Bernal Belisario (1)" src="https://github.com/user-attachments/assets/37d11c37-7100-4bb6-9e04-d5179f886d99" />
+<img width="1919" height="286" alt="image" src="https://github.com/user-attachments/assets/fff96c67-b617-4331-885a-a4e8ac7e049e" />
 
 
 ¡Hola! Soy Brigitte Bernal Belisario, estudiante de Ingeniería Informática en la Universidad Peruana Cayetano Heredia (UPCH). Me apasiona el desarrollo de software científico y el análisis de datos en contextos multidisciplinarios. Tengo experiencia en bioinformática y machine learning, y uso R para investigación reproducible y sostenible.
@@ -36,5 +36,4 @@ Mi formación en UPCH, con énfasis en ML y bioinformática, me prepara para con
 
 ¡Estoy lista para colaborar en proyectos interdisciplinarios y contribuir al ecosistema R en América Latina! 🚀
 
-## 📈 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fx2048&show_icons=true&theme=default)
+
