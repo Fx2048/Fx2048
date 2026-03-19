@@ -32,8 +32,10 @@ Mi formación en UPCH, con énfasis en ML y bioinformática, me prepara para con
 ## Contacto y redes
 - GitHub: [Fx2048](https://github.com/Fx2048)  
 - LinkedIn: [Brigitte Bernal Belisario](https://www.linkedin.com/in/brigitte-bernal-belisario-85b0b9242/)  
-- Email: brigitte.bernal@upch.pe
+- Email: [brigitte.bernal@upch.pe](mail.google.com)
+- Página web: [Mi sitio personal](https://brigittebernal9.wixsite.com/brigittebernalbbb)
 
-¡Estoy lista para colaborar en proyectos interdisciplinarios y contribuir al ecosistema R en América Latina! 
+
+¡Estoy lista para colaborar en proyectos interdisciplinarios en América Latina! 
 
 
