@@ -34,6 +34,6 @@ Mi formación en UPCH, con énfasis en ML y bioinformática, me prepara para con
 - LinkedIn: [Brigitte Bernal Belisario](https://www.linkedin.com/in/brigitte-bernal-belisario-85b0b9242/)  
 - Email: brigitte.bernal@upch.pe
 
-¡Estoy lista para colaborar en proyectos interdisciplinarios y contribuir al ecosistema R en América Latina! 🚀
+¡Estoy lista para colaborar en proyectos interdisciplinarios y contribuir al ecosistema R en América Latina! 
 
 
